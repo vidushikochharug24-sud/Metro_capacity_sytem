@@ -24,4 +24,4 @@ This project simulates a metro passenger capacity monitoring system using Arduin
 ## Output
 Refer to 'output.png'
 ## Code
-Refer to `metro_capacity.ino`
+Refer to 'metro_passenger_capacity_monitoring_system1.ino'
